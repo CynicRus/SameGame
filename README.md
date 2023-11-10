@@ -1,7 +1,7 @@
 # SameGame
 C++ + SFML Implementation of game Same. Tested on Windows and MacOS. 
 
-![Settings Window](https://raw.github.com/CynicRus/SameGame/main/screen.png)
+![Game window](https://github.com/CynicRus/SameGame/blob/main/screen.PNG)
 
 #Requirements:
 Clang or GCC compiler
